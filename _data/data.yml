@@ -4,30 +4,30 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Tsholo Setati
+    tagline: Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: t.setati@gmail.com
+    #phone: 012 345 6789
+    timezone: Johannesburg/South Africa Timezone
+    citizenship: South African
+    website: www.tsholosetati.com #do not add http://
+    linkedin: www.linkedin.com/in/tsholosetati/
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -36,11 +36,8 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Setswana
+          level: Native
 
     interests:
       title: Interests
@@ -66,35 +63,41 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master of Commerce (Economics)
+        university: University of Cape Town
+        time: 2018 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          The aim of this degree is to equip students with essential research skills 
+          (both quantitative and writing skills) and knowledge in their chosen area of specialisation.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor of Business Science Honours (Management)
+        university: Monash University
+        time: 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          This degree has been especially designed to offer selected students the 
+          opportunity for advanced study in one of the specialist business areas offered by 
+          the departments of the Faculty of Business and Economics. 
+          Students will also learn how to conduct business-related research at an advanced level
+            - Bullet point
+            - Bullet point
+      - degree: Bachelor of Business Science (Economics)
+        university: Monash University
+        time: 2016
+        details: |
+          This degree is designed to provide maximum flexibility and to allow depth and breadth 
+          in the study of the major business discipline areas. Its structure provides the 
+          capacity to tailor applications and focus in different contexts and different environments 
+          while ensuring knowledge of the theory, principles and core elements in the relevant discipline areas.
             - Bullet point
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Consultant
+        time: 2022 - Present
+        company: EY
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -243,22 +246,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Quantitative and Qualitative Data Analysis
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Stata
         level: 98%
 
-      - name: Angular
+      - name: Python
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Process Improvment
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Power Automate
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Power BI
         level: 60%
 
 footer: >
